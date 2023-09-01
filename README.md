@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Luis Cifuentes</h1>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<p align="left"></p>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning **Nestjs**
 - 👯 I’m looking to collaborate on ...
