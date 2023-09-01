@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Luis Cifuentes</h1>
+<h2>Hi 👋, I'm Luis Cifuentes</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
