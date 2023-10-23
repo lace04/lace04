@@ -9,7 +9,7 @@
 💻 Buscando un puesto de desarrollo web.
 -->
 
-## 🌐 Sociales
+## 🌐 Socials
 [![linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-cifuentes-18486621a/)
 
 # 💻 Tecnologias
