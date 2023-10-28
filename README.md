@@ -3,7 +3,7 @@
 <h3 align="left">Acerca de mi:</h3>
 <p align="left"></p>
 
-👨‍🎓 Cursando una Ingenieria de sistemas en la Universidad de Cundinamarca
+👨‍🎓 Cursando Ingenieria de sistemas en la Universidad de Cundinamarca
 🔭 Trabajando en aplicaciones web NextJS y NestJS.
 👯 Buscando colaborar en proyectos.
 💻 Buscando un puesto de desarrollo web.
