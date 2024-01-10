@@ -7,11 +7,7 @@
 🔭 Trabajando en aplicaciones web NextJS y NestJS.
 👯 Buscando colaborar en proyectos.
 💻 Buscando un puesto de desarrollo web.
-<!-- portafolio -->
-💼 [![portfolio](https://portfolio-lace.netlify.app/)]
-<!-- 🌱 Aprendiendo: **React, NextJS, NestJS, TypeScript, TailwindCSS, Styled Components, Django, Python, C#** -->
-🤝 Colaborando en: **[Proyecto de la universidad](RiegoOnline) 
--->
+💼 Portfolio[![link]](https://portfolio-lace.netlify.app/)
 
 ## 🌐 Socials
 📫 Contactame:
