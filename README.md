@@ -7,9 +7,14 @@
 🔭 Trabajando en aplicaciones web NextJS y NestJS.
 👯 Buscando colaborar en proyectos.
 💻 Buscando un puesto de desarrollo web.
+<!-- portafolio -->
+💼 [![portfolio](https://portfolio-lace.netlify.app/)]
+<!-- 🌱 Aprendiendo: **React, NextJS, NestJS, TypeScript, TailwindCSS, Styled Components, Django, Python, C#** -->
+🤝 Colaborando en: **[Proyecto de la universidad](RiegoOnline) 
 -->
 
 ## 🌐 Socials
+📫 Contactame:
 [![linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-cifuentes-18486621a/)
 
 # 💻 Tecnologias
