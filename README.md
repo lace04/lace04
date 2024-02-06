@@ -7,7 +7,7 @@
 🔭 Trabajando en aplicaciones web NextJS y NestJS.</br>
 👯 Buscando colaborar en proyectos.</br>
 💻 Buscando un puesto de desarrollo web.</br>
-💼 Portfolio[![link]](https://portfolio-lace.netlify.app/)</br>
+💼 Portfolio <a href="https://portfolio-lace.netlify.app/" target="_blank">Portfolio</a> </br>
 
 ## 🌐 Socials
 📫 Contactame:
